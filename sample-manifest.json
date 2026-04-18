@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d7146654-67ca-463e-a701-0f942019b5d0",
+  "export_job_id": "1c5c97ef-eca3-43b3-ae38-c8dac7a5b581",
   "id_short": 334269,
-  "published_at": "2026-04-11T19:29:51Z",
+  "published_at": "2026-04-18T07:53:35Z",
   "repo_name": "top-10-active-restaurant-review-whales-in-miami-fort-lauderdale-west-palm-beach-me-sample-334269",
   "sample_asset_name": "beamstation_334269_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/334269/beamstation_334269_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
-  "sample_records": 168,
-  "sample_sha256": "71417c8b197e7a6fd225006be0ba2a7886e0ef86b50f80b759531a9da8b3df6f",
-  "sample_size_bytes": 673728,
-  "total_records": 1687
+  "sample_records": 127,
+  "sample_sha256": "438f43117f5cba9147b0cc768a390b9ef20342ab18be958fe6b54a02f4828ff5",
+  "sample_size_bytes": 500822,
+  "total_records": 1275
 }
