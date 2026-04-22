@@ -1,6 +1,6 @@
 # Top 10% Active Restaurant Review Whales in Miami-Fort Lauderdale-West Palm Beach Metro Area, FL, US
 
-> Free BeamStation sample export with 127 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `334269` |
 | Location | Miami-Fort Lauderdale-West Palm Beach, FL |
 | Category | Restaurants |
-| Full dataset size | 1,275 records |
-| Free sample size | 127 records (9.96%) |
-| Last export | 2026-04-15T00:26:10.210974+00:00 |
+| Full dataset size | 400 records |
+| Free sample size | 40 records (10.0%) |
+| Last export | 2026-04-22T04:27:01.995626+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-miami-fort-lauderdale-west-palm-beach-me-sample-334269/releases/download/sample-latest/beamstation_334269_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
